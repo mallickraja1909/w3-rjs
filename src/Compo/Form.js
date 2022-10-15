@@ -22,7 +22,7 @@ const ContactForm = () => {
 {/*  */}
 
 
-        <div className="mb-1 w-50">
+        <div className="mb-3">
           <label className="form-label" htmlFor="name">
             Name
           </label>
@@ -30,7 +30,7 @@ const ContactForm = () => {
         </div>
 
 
-        <div className="mb-3 w-50">
+        <div className="mb-3 ">
           <label className="form-label" htmlFor="email">
             Email
           </label>
@@ -38,7 +38,7 @@ const ContactForm = () => {
         </div>
 
 
-        <div className="mb-3 w-50">
+        <div className="mb-3 ">
           <label className="form-label" htmlFor="date">
             Date
           </label>
@@ -46,7 +46,7 @@ const ContactForm = () => {
         </div>
 
 
-        <div className="mb-3 w-50">
+        <div className="mb-3 ">
           <label className="form-label" htmlFor="time">
             Time
           </label>
@@ -54,7 +54,7 @@ const ContactForm = () => {
         </div>
 
 
-        <div className="mb-3 w-50">
+        <div className="mb-3 ">
           <label className="form-label" htmlFor="people">
             People
           </label>
